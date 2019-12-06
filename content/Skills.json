@@ -1,0 +1,50 @@
+[
+	{
+		"Skill": "HTML",
+		"Percentage": "90"
+	},
+	{
+		"Skill": "CSS",
+		"Percentage": "90"
+	},
+	{
+		"Skill": "JavaScript",
+		"Percentage": "80"
+	},
+	{
+		"Skill": "jQuery",
+		"Percentage": "60"
+	},
+	{
+		"Skill": "PHP",
+		"Percentage": "80"
+	},
+	{
+		"Skill": "SQL, PL/SQL",
+		"Percentage": "70"
+	},
+	{
+		"Skill": "C",
+		"Percentage": "50"
+	},
+	{
+		"Skill": "C#, XAML",
+		"Percentage": "70"
+	},
+	{
+		"Skill": "Python",
+		"Percentage": "30"
+	},
+	{
+		"Skill": "French",
+		"Percentage": "100"
+	},
+	{
+		"Skill": "English",
+		"Percentage": "80"
+	},
+	{
+		"Skill": "Spanish",
+		"Percentage": "90"
+	}
+]

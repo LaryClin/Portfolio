@@ -1,0 +1,27 @@
+[
+	{
+		"Title": "HISTOIRE D'OR <br> Seller",
+		"Img": "histoiredor",
+		"Year": "2019",
+		"Link": "https://www.histoiredor.com/fr/histoire-or"
+	},
+
+	{
+		"Title": "TESSIER TECHNIQUE <br> Operator",
+		"Img": "tessier-technique2",
+		"Year": "2016/2017/2018",
+		"Link": "https://www.teissier-technique.com/"
+	},
+	{
+		"Title": "ALTIMAX <br> Trainee",
+		"Img": "ALTIMAX1",
+		"Year": "2014",
+		"Link": "https://www.altimax.com/"
+	},
+	{
+		"Title": "Ecotel <br> Data updating",
+		"Img": "ecotel",
+		"Year": "2019",
+		"Link": "https://www.ecotel.fr/"
+	}
+]
